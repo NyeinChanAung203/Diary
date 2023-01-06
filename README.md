@@ -1,6 +1,20 @@
-# diary
+# Diary
 
-A new Flutter project.
+Diary Application
+
+## Features
+- Beautiful onboarding pages
+- Make your own profile (profile picture,username,date of birth,gender)
+- Password protection (if you fogot your password, you can recover your password by answering the security question)
+- Can change your password and security question
+- Create,Update,Delete and Read your diaries
+- Write your diaries with Rich TextField Editor and you can set your current feeling,tags and cover photo
+- Backup your diary into pdf file
+- Can set star your favorite diaries
+- Restore your deleted diaries (if you delete diary, it will be in trash)
+- Search your diaries including starred and deleted diaries
+- Dark mode and Light mode and extra changing Main Color or Primary Color
+- Sending notification to remind you
 
 ## Getting Started
 
